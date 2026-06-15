@@ -1,4 +1,4 @@
-# GitHub-Repository-Structure
+
 # TechKaram GmbH — HomeLab Project
 
 ## 📌 Overview
